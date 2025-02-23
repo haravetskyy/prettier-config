@@ -1,13 +1,16 @@
 {
   "name": "@haravetskyy/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.2",
+  "author": "Yuriy Haravetskyy <yuriyharavetskyy@gmail.com>",
   "description": "My personal Prettier config",
   "type": "module",
-  "exports": {
-    "import": "./index.mjs",
-    "require": "./index.cjs"
-  },
+  "main": ".prettierrc.json",
   "repository": "git@github.com:haravetskyy/prettier-config.git",
+  "keywords": [
+    "prettier",
+    "prettier-config",
+    "prettierconfig"
+  ],
   "license": "MIT",
   "publishConfig": {
     "access": "public"
