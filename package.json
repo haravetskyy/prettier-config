@@ -1,0 +1,15 @@
+{
+  "name": "@haravetskyy/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal Prettier config",
+  "type": "module",
+  "exports": "./index.js",
+  "repository": "git@github.com:haravetskyy/prettier-config.git",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "prettier": ">=3.0.0"
+  }
+}
