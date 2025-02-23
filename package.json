@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "My personal Prettier config",
   "type": "module",
-  "exports": "./index.js",
+  "exports": {
+    "import": "./index.mjs",
+    "require": "./index.cjs"
+  },
   "repository": "git@github.com:haravetskyy/prettier-config.git",
   "license": "MIT",
   "publishConfig": {

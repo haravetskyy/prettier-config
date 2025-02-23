@@ -1,4 +1,4 @@
-const config = {
+module.exports = {
   bracketSameLine: true,
   printWidth: 100,
   quoteProps: 'consistent',
@@ -9,5 +9,3 @@ const config = {
   bracketSpacing: true,
   arrowParens: 'avoid',
 };
-
-export default config;
