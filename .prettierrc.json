@@ -1,4 +1,5 @@
 {
+  "plugins": ["@prettier/plugin-php"],
   "bracketSameLine": true,
   "printWidth": 100,
   "quoteProps": "consistent",
