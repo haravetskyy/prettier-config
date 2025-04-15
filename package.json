@@ -1,6 +1,6 @@
 {
   "name": "@haravetskyy/prettier-config",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "Yuriy Haravetskyy <yuriyharavetskyy@gmail.com>",
   "description": "My personal Prettier config",
   "type": "module",
@@ -16,7 +16,6 @@
     "access": "public"
   },
   "peerDependencies": {
-    "prettier": ">=3.0.0",
-    "@prettier/plugin-php": "latest"
+    "prettier": ">=3.0.0"
   }
 }
