@@ -5,25 +5,25 @@ My personal [Prettier](https://prettier.io) config.
 ## 1. Install:
 
 ```bash
-npm install --save-dev @haravetskyy/prettier-config
+npm install --save-dev @haravetskyy/prettier-config prettier-plugin-tailwindcss prettier-plugin-packagejson
 ```
 
 or
 
 ```bash
-yarn add --dev @haravetskyy/prettier-config
+yarn add --dev @haravetskyy/prettier-config prettier-plugin-tailwindcss prettier-plugin-packagejson
 ```
 
 or
 
 ```bash
-pnpm add --save-dev @haravetskyy/prettier-config
+pnpm add --save-dev @haravetskyy/prettier-config prettier-plugin-tailwindcss prettier-plugin-packagejson
 ```
 
 or
 
 ```bash
-bun add --dev @haravetskyy/prettier-config
+bun add --dev @haravetskyy/prettier-config prettier-plugin-tailwindcss prettier-plugin-packagejson
 ```
 
 ## 2. Usage
